@@ -1,0 +1,14 @@
+[General]
+Version = 1
+
+[Twitch]
+AccessToken =
+ChannelName =
+
+[Settings]
+Mode = all
+IgnoreUrls = yes
+IgnoreBotCommands = yes
+ExcludedUsers =
+Volume = 1.0
+FallbackLanguage = en

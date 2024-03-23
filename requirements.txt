@@ -1,0 +1,4 @@
+googletrans==4.0.0rc1
+gTTS==2.5.1
+miniaudio==1.59
+twitchio==2.10.0
